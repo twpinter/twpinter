@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**twpinter/twpinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Linguagens e ferramentas (Languages and tools):
 <p align = "left">
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
@@ -38,13 +23,11 @@ Here are some ideas to get you started:
 
 ## Contato (Find me on):
 <p align="left">
-<a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="26" style="vertical-align:top; margin:4px"></a>
 </p>
-
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twpinter&show_icons=true&theme=graywhite)
 
-##
 Este readme foi feito baseados nos tutoriais:
 - https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
 - https://www.youtube.com/watch?v=ECuqb5Tv9qI
