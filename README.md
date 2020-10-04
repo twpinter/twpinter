@@ -23,6 +23,8 @@
 
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
 
+---
+
 ### Contato (Find me on):
 
 <p align="left">
