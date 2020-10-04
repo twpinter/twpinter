@@ -36,7 +36,15 @@ Here are some ideas to get you started:
 
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
 
-## Contato
+## Contato (Find me on):
 <p align="left">
 <a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+##
+
+
+##
+Este readme foi feito baseados nos tutoriais:
+- https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+- https://www.youtube.com/watch?v=ECuqb5Tv9qI
