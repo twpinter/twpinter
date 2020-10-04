@@ -6,7 +6,7 @@
 <img alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
-## Meus projetos (My personal projects):
+### Meus projetos (My personal projects):
 [Portfolio menu](https://github.com/twpinter/Portfolio)
 
 [1. Análise do transporte ferroviário de cargas no Brasil](https://github.com/twpinter/Projeto-Ferrovias/blob/master/Ferrovias-pandas.ipynb): (Em desenvolvimento) O objetivo deste projeto é a análise da utilização do modal ferroviário no Brasil para o transporte de cargas no período entre 2006 e 2019. Procuramos observar a evolução do uso das ferrovias no transporte de cargas, as principais mercadorias transportadas e os principais Estados de origem destas cargas. Por fim, serão propostos modelos de previsão para o volume transportado entre as principais mercadorias. **Ferramentas: Python.**
@@ -22,7 +22,7 @@
 
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
 
-## Contato (Find me on):
+### Contato (Find me on):
 
 <p align="left">
 <a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="26" style="vertical-align:top; margin:4px"></a>
