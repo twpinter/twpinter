@@ -7,7 +7,7 @@
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
 </br>
-
+---
 ## Meus projetos (My personal projects):
 [Portfolio menu](https://github.com/twpinter/Portfolio)
 
@@ -23,14 +23,13 @@
 - Macroeconomic Panel: (Work in progress) Development of dashboard made with R Shiny app for Macroeconomic statistics of Brazil. This panel is subdivided between different sections: economic activity, CPI prices, industry, monetary policy, and fiscal policy among others. The main objective of this dashboard is the fast analysis of the major macroeconomic indicators with quarter refreshes. **Tools: R.**
 
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
-
-
+---
 ## Contato (Find me on):
+
 <p align="left">
 <a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="26" style="vertical-align:top; margin:4px"></a>
 </p>
 </br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twpinter&show_icons=true&theme=graywhite)
 
 Este readme foi feito baseado nos tutoriais:
