@@ -35,3 +35,8 @@ Here are some ideas to get you started:
 - Macroeconomic Panel: (Work in progress) Development of dashboard made with R Shiny app for Macroeconomic statistics of Brazil. This panel is subdivided between different sections: economic activity, CPI prices, industry, monetary policy, and fiscal policy among others. The main objective of this dashboard is the fast analysis of the major macroeconomic indicators with quarter refreshes. **Tools: R.**
 
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
+
+## Contato
+<p align="left">
+<a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
