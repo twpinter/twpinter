@@ -25,7 +25,7 @@
 
 ---
 
-### Contato (Find me on): <a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="26" style="vertical-align:top; margin:4px"></a>
+### Contato (Find me on): <a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="26" style="vertical-align:top"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twpinter&show_icons=true&theme=graywhite)
 
