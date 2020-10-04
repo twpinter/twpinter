@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 </p>
 
 ##
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=twpinter&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twpinter&theme=tokyonight)
 
 ##
 Este readme foi feito baseados nos tutoriais:
