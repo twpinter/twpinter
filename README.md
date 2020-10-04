@@ -5,7 +5,7 @@
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
 <img alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <img alt="Excel" width="26px" src="https://camo.githubusercontent.com/013c132fbac1d79976c0a27ec5b86a365732b1f8/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238373733352f3435303239382f34656537623737612d623238642d313165322d393733622d3166633330643533646431322e706e67" />
+<img alt="Excel" width="26px" src="https://camo.githubusercontent.com/013c132fbac1d79976c0a27ec5b86a365732b1f8/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238373733352f3435303239382f34656537623737612d623238642d313165322d393733622d3166633330643533646431322e706e67" />
 </p>
 
 ## Meus projetos (My personal projects):
