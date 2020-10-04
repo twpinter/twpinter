@@ -8,12 +8,14 @@
 </p>
 
 ## Meus projetos (My personal projects):
- [1. Análise do transporte ferroviário de cargas no Brasil](https://github.com/twpinter/Projeto-Ferrovias/blob/master/Ferrovias-pandas.ipynb): (Work in progress) **Ferramentas: Python.**
+ [1. Análise do transporte ferroviário de cargas no Brasil](https://github.com/twpinter/Projeto-Ferrovias/blob/master/Ferrovias-pandas.ipynb): (Em desenvolvimento) **Ferramentas: Python.**
  - Analysis of rail freight transport in Brazil: (Work in progress) **Tools: Python.** 
+
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Ferrovias)
 
 [2. Painel Macroeconômico](https://twpinter.shinyapps.io/Teste/): (Em desenvolvimento) **Ferramentas: R.**
 - Macroeconomic Panel: (Work in progress) **Tools: R.**
+
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
 
 ## Contato (Find me on):
