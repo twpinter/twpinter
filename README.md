@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### Linguagens e ferramentas (Languages and tools):
+## Linguagens e ferramentas (Languages and tools):
 <p align = "left">
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
 <img alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
@@ -26,7 +26,7 @@
 
 ---
 
-### Contato (Find me on): 
+## Contato (Find me on): 
 <a href="mailto:twpinter@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="26" style="vertical-align:top"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twpinter&show_icons=true&theme=graywhite)
